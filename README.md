@@ -351,9 +351,6 @@ import './index.css'
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 👤 Autor
-
-Desenvolvido por **Manus AI** com ❤️
 
 ## 🤝 Contribuições
 
@@ -365,9 +362,7 @@ Contribuições são bem-vindas! Para contribuir:
 4. Push para a branch (`git push origin feature/MinhaFeature`)
 5. Abra um Pull Request
 
-## 📞 Suporte
 
-Se encontrar problemas ou tiver dúvidas, abra uma issue no repositório GitHub ou entre em contato através do email de suporte.
 
 ---
 
